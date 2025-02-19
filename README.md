@@ -26,10 +26,14 @@ this repository is for commandline payments application.
 
 ### Currency conversions when sending to foriegn users.
 > .
+
 >### Email notifications for transactions
 > .
+
 >### Save information of users/accounts we frequently send money to display as shortcuts.
 > .
+
 >### Reward system for referrals.
 > .
+
 >### Generate payment links.
