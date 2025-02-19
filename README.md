@@ -23,3 +23,13 @@ this repository is for commandline payments application.
 
 ### Allow users to view transaction history.
 >**ViewTransactionsHistory** _[user_id]_
+> .
+>Currency conversions when sending to foriegn users.
+> .
+>Email notifications for transactions
+> .
+>Save information of users/accounts we frequently send money to display as shortcuts.
+> .
+>Reward system for referrals.
+> .
+>generate payment links.
